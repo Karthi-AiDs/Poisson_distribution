@@ -1,6 +1,7 @@
 # EXP 2: Fitting Poisson  distribution
-# Name: KARTHIKEYAN D
-# Regno: 212224230115
+## Date: 06/03/2025
+## Name: KARTHIKEYAN D
+## Regno: 212224230115
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
